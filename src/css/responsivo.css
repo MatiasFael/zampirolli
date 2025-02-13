@@ -1,0 +1,13 @@
+@media (max-width: 1122px) {
+    .main-content h1 {
+        font-size: 7rem;
+    }
+}
+
+@media (max-width: 925px) {
+    .main-content h1 {
+        font-size: 4rem;
+        left: -94px;
+        top: 38px;
+    }
+}
